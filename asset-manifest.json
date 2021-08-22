@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Monsters-Project/static/css/main.3631661c.chunk.css",
-    "main.js": "/React-Monsters-Project/static/js/main.1cb380ce.chunk.js",
-    "main.js.map": "/React-Monsters-Project/static/js/main.1cb380ce.chunk.js.map",
+    "main.css": "/React-Monsters-Project/static/css/main.d8acb23f.chunk.css",
+    "main.js": "/React-Monsters-Project/static/js/main.99fbb46d.chunk.js",
+    "main.js.map": "/React-Monsters-Project/static/js/main.99fbb46d.chunk.js.map",
     "runtime-main.js": "/React-Monsters-Project/static/js/runtime-main.7da2383d.js",
     "runtime-main.js.map": "/React-Monsters-Project/static/js/runtime-main.7da2383d.js.map",
     "static/js/2.e80c916c.chunk.js": "/React-Monsters-Project/static/js/2.e80c916c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.8b365cc5.chunk.js": "/React-Monsters-Project/static/js/3.8b365cc5.chunk.js",
     "static/js/3.8b365cc5.chunk.js.map": "/React-Monsters-Project/static/js/3.8b365cc5.chunk.js.map",
     "index.html": "/React-Monsters-Project/index.html",
-    "static/css/main.3631661c.chunk.css.map": "/React-Monsters-Project/static/css/main.3631661c.chunk.css.map",
+    "static/css/main.d8acb23f.chunk.css.map": "/React-Monsters-Project/static/css/main.d8acb23f.chunk.css.map",
     "static/js/2.e80c916c.chunk.js.LICENSE.txt": "/React-Monsters-Project/static/js/2.e80c916c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7da2383d.js",
     "static/js/2.e80c916c.chunk.js",
-    "static/css/main.3631661c.chunk.css",
-    "static/js/main.1cb380ce.chunk.js"
+    "static/css/main.d8acb23f.chunk.css",
+    "static/js/main.99fbb46d.chunk.js"
   ]
 }
